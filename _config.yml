@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://whykay.github.io
+title: Whykay's Happenings
+tagline: Pythonista and a tech event organiser encouraging diversity in the community.
+description: Geeky to tech to diversity events and workshops.
+paginate: 5
